@@ -1,0 +1,177 @@
+[
+  {
+    "id": "quran_01",
+    "title": "anko-quran",
+    "cover": "covers/quran/quran_01.jpg",
+    "pdf": "quran/anko-quran.pdf",
+    "pages": 1296
+  },
+  {
+    "id": "quran_02",
+    "title": "chinese-quran",
+    "cover": "covers/quran/quran_02.jpg",
+    "pdf": "quran/chinese-quran.pdf",
+    "pages": 1232
+  },
+  {
+    "id": "quran_03",
+    "title": "english-quran",
+    "cover": "covers/quran/quran_03.jpg",
+    "pdf": "quran/english-quran.pdf",
+    "pages": 800
+  },
+  {
+    "id": "quran_04",
+    "title": "french-quran",
+    "cover": "covers/quran/quran_04.jpg",
+    "pdf": "quran/french-quran.pdf",
+    "pages": 1024
+  },
+  {
+    "id": "quran_05",
+    "title": "hausa-quran",
+    "cover": "covers/quran/quran_05.jpg",
+    "pdf": "quran/hausa-quran.pdf",
+    "pages": 1009
+  },
+  {
+    "id": "quran_06",
+    "title": "indonesian-quran",
+    "cover": "covers/quran/quran_06.jpg",
+    "pdf": "quran/indonesian-quran.pdf",
+    "pages": 1280
+  },
+  {
+    "id": "quran_07",
+    "title": "portuguese-quran",
+    "cover": "covers/quran/quran_07.jpg",
+    "pdf": "quran/portuguese-quran.pdf",
+    "pages": 1084
+  },
+  {
+    "id": "quran_08",
+    "title": "tamil-quran",
+    "cover": "covers/quran/quran_08.jpg",
+    "pdf": "quran/tamil-quran.pdf",
+    "pages": 1248
+  },
+  {
+    "id": "quran_09",
+    "title": "telugu-quran",
+    "cover": "covers/quran/quran_09.jpg",
+    "pdf": "quran/telugu-quran.pdf",
+    "pages": 1304
+  },
+  {
+    "id": "quran_10",
+    "title": "turkish-quran",
+    "cover": "covers/quran/quran_10.jpg",
+    "pdf": "quran/turkish-quran.pdf",
+    "pages": 656
+  },
+  {
+    "id": "quran_11",
+    "title": "urdu-quran",
+    "cover": "covers/quran/quran_11.jpg",
+    "pdf": "quran/urdu-quran.pdf",
+    "pages": 1776
+  },
+  {
+    "id": "quran_12",
+    "title": "vietnami-quran",
+    "cover": "covers/quran/quran_12.jpg",
+    "pdf": "quran/vietnami-quran.pdf",
+    "pages": 1232
+  },
+  {
+    "id": "quran_13",
+    "title": "التجويد الميسر",
+    "cover": "covers/quran/quran_13.jpg",
+    "pdf": "quran/التجويد الميسر.pdf",
+    "pages": 176
+  },
+  {
+    "id": "quran_14",
+    "title": "التفسير الميسر",
+    "cover": "covers/quran/quran_14.jpg",
+    "pdf": "quran/التفسير الميسر.pdf",
+    "pages": 644
+  },
+  {
+    "id": "quran_15",
+    "title": "القرآن الكريم - المصحف الجوامعي",
+    "cover": "covers/quran/quran_15.jpg",
+    "pdf": "quran/القرآن الكريم - المصحف الجوامعي.pdf",
+    "pages": 640
+  },
+  {
+    "id": "quran_16",
+    "title": "القرآن الكريم - المصحف الوسط",
+    "cover": "covers/quran/quran_16.jpg",
+    "pdf": "quran/القرآن الكريم - المصحف الوسط.pdf",
+    "pages": 640
+  },
+  {
+    "id": "quran_17",
+    "title": "القرآن الكريم المصحف العادي 1",
+    "cover": "covers/quran/quran_17.jpg",
+    "pdf": "quran/القرآن الكريم المصحف العادي 1.pdf",
+    "pages": 625
+  },
+  {
+    "id": "quran_18",
+    "title": "القرآن الكريم المصحف العادي 2",
+    "cover": "covers/quran/quran_18.jpg",
+    "pdf": "quran/القرآن الكريم المصحف العادي 2.pdf",
+    "pages": 624
+  },
+  {
+    "id": "quran_19",
+    "title": "القرآن الكريم المصحف الكبير",
+    "cover": "covers/quran/quran_19.jpg",
+    "pdf": "quran/القرآن الكريم المصحف الكبير.pdf",
+    "pages": 624
+  },
+  {
+    "id": "quran_20",
+    "title": "الميسر فى غريب القرآن الكريم",
+    "cover": "covers/quran/quran_20.jpg",
+    "pdf": "quran/الميسر فى غريب القرآن الكريم.pdf",
+    "pages": 632
+  },
+  {
+    "id": "quran_21",
+    "title": "مصحف الدوري",
+    "cover": "covers/quran/quran_21.jpg",
+    "pdf": "quran/مصحف الدوري.pdf",
+    "pages": 640
+  },
+  {
+    "id": "quran_22",
+    "title": "مصحف السوسي",
+    "cover": "covers/quran/quran_22.jpg",
+    "pdf": "quran/مصحف السوسي.pdf",
+    "pages": 624
+  },
+  {
+    "id": "quran_23",
+    "title": "مصحف شعبة",
+    "cover": "covers/quran/quran_23.jpg",
+    "pdf": "quran/مصحف شعبة.pdf",
+    "pages": 640
+  },
+  {
+    "id": "quran_24",
+    "title": "مصحف قالون",
+    "cover": "covers/quran/quran_24.jpg",
+    "pdf": "quran/مصحف قالون.pdf",
+    "pages": 640
+  },
+  {
+    "id": "quran_25",
+    "title": "مصحف ورش",
+    "cover": "covers/quran/quran_25.jpg",
+    "pdf": "quran/مصحف ورش.pdf",
+    "pages": 640
+  }
+]
