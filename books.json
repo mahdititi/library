@@ -236,5 +236,12 @@
     "cover": "covers/book_34.jpg",
     "pdf": "بلوغ المرام (ابن حجر العسقلاني).pdf",
     "pages": 399
+  },
+  {
+    "id": "book_35",
+    "title": "موطأ (الإمام مالك)",
+    "cover": "covers/book_35.jpg",
+    "pdf": "موطأ (الإمام مالك).pdf",
+    "pages": 832
   }
 ]
