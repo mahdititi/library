@@ -215,5 +215,12 @@
     "cover": "covers/book_31.jpg",
     "pdf": "متن تحفة الأطفال.pdf",
     "pages": 16
+  },
+  {
+    "id": "book_32",
+    "title": "الأربعون النووية",
+    "cover": "covers/book_32.jpg",
+    "pdf": "الأربعون النووية.pdf",
+    "pages": 32
   }
 ]
