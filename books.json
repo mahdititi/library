@@ -299,5 +299,12 @@
     "cover": "covers/book_43.jpg",
     "pdf": "الشمائل المحمدية (الإمام الترمذي).pdf",
     "pages": 700
+  },
+  {
+    "id": "book_44",
+    "title": "بصائر (هيثم طلعت)",
+    "cover": "covers/book_44.jpg",
+    "pdf": "بصائر (هيثم طلعت).pdf",
+    "pages": 908
   }
 ]
